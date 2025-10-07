@@ -1,4 +1,4 @@
-# Invoicing ROI Calculator
+## ROI Calculator
 
 ## Project Overview
 The **Invoicing ROI Calculator** is a web-based tool designed to help businesses evaluate the financial impact of transitioning from manual invoicing to an automated system. It allows users to input key business parameters and instantly calculate potential cost savings, Return on Investment (ROI), and payback periods. The project emphasizes simplicity and interactivity to provide a user-friendly experience.
